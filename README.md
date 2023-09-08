@@ -1,14 +1,9 @@
-# CesarGlufke
-
 # Olá sou Cesar e Bem-vindo ao meu Perfil do GitHub! 👋
 
 ## Sobre Mim
-
 - 🌱 Atualmente, estou cursando o tec analise e desenvolvimento de sistemas no SESI-SENAI.
 - 💬 Pergunte-me sobre meu curso.
-
 ## Linguagens e Ferramentas
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -21,24 +16,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-
-
-
-
-
-
 ## Estatísticas do Meu Perfil
-
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Cesar-Zanellato&show_icons=true&theme=radical)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Zanellato&layout=compact&theme=radical)](https://github.com/Cesar-Zanellato)
 
-## Projetos Destacados
-
-- Curso de Desenvolvimento de Sistemas(https://github.com/Cesar-Zanellato/Curso_Desenvolvimento_de_Sistemas) - Este projeto serve para compartilhar os conteudos e conhecimentos que o curso que estou fazendo oferece.
-
-## Vamos Conectar!
+## Onde me encontrar:
 
 Fique à vontade para explorar meus repositórios e entrar em contato comigo. Vamos aprender e construir juntos! 😄
 
