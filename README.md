@@ -23,8 +23,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## Onde me encontrar:
-Fique à vontade para explorar meus repositórios e entrar em contato comigo. Vamos aprender e construir juntos! 😄
-
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlLXKRmbHBHpZwzBNSSDNgMGsCBxnsxcgBSxCCHPLnPbRVQFlqFWzqdMzFMFGRQQDrcvDB)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-glufke-zanellato-392b00248/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cesarglufke/)
