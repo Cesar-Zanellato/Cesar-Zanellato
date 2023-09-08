@@ -1,6 +1,7 @@
-# Olá sou Cesar e Bem-vindo ao meu Perfil do GitHub! 👋
+# Olá sou Cesar 👋
+# Bem-vindo ao meu Perfil do GitHub!
 
-- 🌱 Atualmente, estou cursando o tec analise e desenvolvimento de sistemas no SESI-SENAI.
+-  Atualmente, estou cursando o tec analise e desenvolvimento de sistemas no SESI-SENAI.
 
 ## Linguagens e Ferramentas
 
