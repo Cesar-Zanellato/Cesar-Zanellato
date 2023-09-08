@@ -18,11 +18,13 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ## Estatísticas do Meu Perfil
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Cesar-Zanellato&show_icons=true&theme=radical)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Zanellato&layout=compact&theme=radical)](https://github.com/Cesar-Zanellato)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Cesar-Zanellato&show_icons=true&theme=radical)
+
 ## Onde me encontrar:
 Fique à vontade para explorar meus repositórios e entrar em contato comigo. Vamos aprender e construir juntos! 😄
+
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlLXKRmbHBHpZwzBNSSDNgMGsCBxnsxcgBSxCCHPLnPbRVQFlqFWzqdMzFMFGRQQDrcvDB)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-glufke-zanellato-392b00248/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cesarglufke/)
-[![GitHub Seguir](https://img.shields.io/github/followers/LuigiInt1?label=Siga%20no%20GitHub&style=social)](https://github.com/Cesar-Zanellato)
