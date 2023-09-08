@@ -4,9 +4,8 @@
 -  Atualmente, estou cursando o tec analise e desenvolvimento de sistemas no SESI-SENAI.
 
 ## Estatísticas do Meu Perfil
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Zanellato&layout=compact&theme=radical)](https://github.com/Cesar-Zanellato)
-
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Cesar-Zanellato&show_icons=true&theme=radical)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Zanellato&layout=compact&theme=radical)](https://github.com/Cesar-Zanellato)
 
 ## Linguagens e Ferramentas que eu uso
 
