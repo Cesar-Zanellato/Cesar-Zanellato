@@ -1,9 +1,9 @@
 # Olá sou Cesar e Bem-vindo ao meu Perfil do GitHub! 👋
 
-## Sobre Mim
 - 🌱 Atualmente, estou cursando o tec analise e desenvolvimento de sistemas no SESI-SENAI.
-- 💬 Pergunte-me sobre meu curso.
+
 ## Linguagens e Ferramentas
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -18,13 +18,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ## Estatísticas do Meu Perfil
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Cesar-Zanellato&show_icons=true&theme=radical)
-
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Zanellato&layout=compact&theme=radical)](https://github.com/Cesar-Zanellato)
-
 ## Onde me encontrar:
-
 Fique à vontade para explorar meus repositórios e entrar em contato comigo. Vamos aprender e construir juntos! 😄
-
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlLXKRmbHBHpZwzBNSSDNgMGsCBxnsxcgBSxCCHPLnPbRVQFlqFWzqdMzFMFGRQQDrcvDB)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-glufke-zanellato-392b00248/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cesarglufke/)
