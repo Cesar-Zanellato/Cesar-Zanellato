@@ -1,7 +1,7 @@
 # Olá sou Cesar 👋
 # Bem-vindo ao meu Perfil do GitHub!
 
--  Atualmente, estou formado no curso Técnico de Desenvolvimento de Sistemas no SESI-SENAI e estou procutando o meu primeiro emprego na area.
+-  Um pouco do que eu estudei e pratiquei.
 
 ## Estatísticas do Meu Perfil
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Cesar-Zanellato&show_icons=true&theme=transparent)
